@@ -24,3 +24,7 @@ Python movie recommender system that uses the correlation between the ratings as
 
 * Rating data visuals are commented out from line 23
 * Movie title can be changed in line 50
+
+## Extras
+
+[https://github.com/samuliristimaki/frc-cloudml](https://github.com/samuliristimaki/frc-cloudml) - Advanced cloud based movie recommender
